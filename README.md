@@ -1,1 +1,1 @@
-# earth-rotating
+# ROTATING EARTH
